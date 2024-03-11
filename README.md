@@ -8,7 +8,7 @@ Um jogo simples da forca implementado em Python. O jogador tenta adivinhar uma p
 
 ## 📦 Tecnologias Usadas
 
-- Python
+* ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) - O jogo da forca foi implementado completamente em Python. A linguagem oferece recursos robustos para manipulação de strings, estruturas condicionais e loops, tornando-a adequada para a lógica do jogo.
 
 ## 👷 Autor
 
@@ -16,4 +16,4 @@ Um jogo simples da forca implementado em Python. O jogador tenta adivinhar uma p
    
 ## 📄 Licença
 
-* Esse projeto está sob a licença MIT - acesse os detalhes em [LICENSE.md](LICENSE.md).
+* Esse projeto está sob a licença *MIT license* - acesse os detalhes em [LICENSE.md](https://github.com/angelodesenvolvedor/Jogo-da-Forca?tab=MIT-1-ov-file).
